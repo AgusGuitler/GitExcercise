@@ -1,2 +1,0 @@
-# GitExcercise
-Taller git - Alkemy
